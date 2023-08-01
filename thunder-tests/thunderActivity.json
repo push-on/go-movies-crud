@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "f4685231-d8b4-47de-83b7-f5178d2a4b54",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:8000/movies",
+        "url": "http://localhost:8000/movies",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-08-01T07:57:36.104Z",
+        "modified": "2023-08-01T07:57:36.104Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    },
+    {
+        "_id": "ed9e1236-65da-4474-9a33-3802405fe55a",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:8000/movies/1",
+        "url": "http://localhost:8000/movies/1",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-08-01T07:58:52.775Z",
+        "modified": "2023-08-01T07:58:52.775Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    }
+]

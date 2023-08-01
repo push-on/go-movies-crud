@@ -1,0 +1,23 @@
+{
+    "_id": "8e76070d-7930-4227-abab-cdcc8c0cddee",
+    "colName": "G0-Movies",
+    "created": "2023-08-01T07:58:03.846Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "93d0f22d-9e22-4117-903d-bf674755f989",
+            "colId": "8e76070d-7930-4227-abab-cdcc8c0cddee",
+            "containerId": "",
+            "name": "Get All",
+            "url": "http://localhost:8000/movies",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-08-01T07:58:03.852Z",
+            "modified": "2023-08-01T07:58:03.852Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
